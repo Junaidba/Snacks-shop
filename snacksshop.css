@@ -1387,6 +1387,7 @@ footer {
     }
 
 }
+
 @media (max-width:483px) {
     .offer img {
         width: 414px;
@@ -1407,6 +1408,18 @@ footer {
     }
     
 }
+@media (max-width:484px) {
+    .menu {
+        font-size: 15px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.2;
+        justify-content: space-evenly;
+    }
+    
+}
 @media (max-width:464px) {
     .offercon h4 {
         font-size: 21px;
@@ -1423,6 +1436,33 @@ footer {
         border-radius: 25px;
     }
     
+}
+@media (max-width:451px) {
+    .menu {
+        font-size: 14px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.2;
+        justify-content: space-evenly;
+    }
+    .container5 {
+        height: 57vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+    
+}
+@media (max-width:454px) {
+    .menu {
+        font-size: 13px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.7;
+        justify-content: space-evenly;
+    }
 }
 
 @media (max-width:450px) {
@@ -1460,12 +1500,12 @@ footer {
     }
 
     .menu {
-        font-size: 14px;
+        font-size: 13px;
         text-align: center;
         color: #dddd54;
         display: flex;
         /* justify-content: center; */
-        line-height: 2.6;
+        line-height: 2.2;
         justify-content: space-evenly;
     }
 
@@ -1500,12 +1540,12 @@ footer {
 
 @media (max-width:424px) {
     .menu {
-        font-size: 13.5px;
+        font-size: 12px;
         text-align: center;
         color: #dddd54;
         display: flex;
         /* justify-content: center; */
-        line-height: 2.7;
+        line-height: 2.3;
         justify-content: space-evenly;
     }
 
@@ -1547,12 +1587,12 @@ footer {
 
 @media (max-width:409px) {
     .menu {
-        font-size: 13px;
+        font-size: 12.5px;
         text-align: center;
         color: #dddd54;
         display: flex;
         /* justify-content: center; */
-        line-height: 2.7;
+        line-height: 2.4;
         justify-content: space-evenly;
     }
 
@@ -1678,17 +1718,7 @@ footer {
     }
 }
 
-@media (max-width:333px) {
-    .menu {
-        font-size: 10.9px;
-        text-align: center;
-        color: #dddd54;
-        display: flex;
-        /* justify-content: center; */
-        line-height: 2.9;
-        justify-content: space-evenly;
-    }
-}
+
 @media (max-width:367px) {
     .offercon h4 {
         font-size: 18px;
@@ -1811,6 +1841,17 @@ footer {
         border-radius: 24px;
     }
     
+}
+@media (max-width:333px) {
+    .menu {
+        font-size: 10px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.8;
+        justify-content: space-evenly;
+    }
 }
 @media (max-width:330px) {
     .offercon h4 {
