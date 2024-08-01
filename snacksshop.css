@@ -1970,3 +1970,15 @@ footer {
 
 
 }
+@media (max-width:310px) {
+    .menu {
+        font-size: 10px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.8;
+        justify-content: space-evenly;
+    }
+    
+}
