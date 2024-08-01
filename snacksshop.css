@@ -1,0 +1,1931 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background: url(/BGimg/bak.jpg);
+    background-size: cover;
+    opacity: 10;
+
+
+}
+
+
+:root {
+    --navbr-height: 59px;
+}
+
+#navbar {
+    display: flex;
+    align-items: center;
+    background-color: rgb(4 1 1 / 78%);
+
+}
+
+#navbar ul {
+    display: flex;
+
+
+}
+
+
+.logo img {
+    /* margin: 20px 30px; */
+    width: 78px;
+    margin: 0;
+}
+
+#navbar ul li {
+    padding: 10px;
+    list-style: none;
+
+}
+
+#navbar ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: seashell;
+
+}
+.offer img{
+   
+    width: 600px;
+    padding: 13px;
+    height: 54vh;
+    margin-top: 30px;
+}
+
+.container11{
+    display: flex;
+    background-color: rgba(24, 16, 16, 0.62);
+    border-radius: 15px;
+    margin: 15px;
+
+}
+.offercon{
+    padding: 10px;
+}
+.offercon h4{
+    font-size: 34px;
+    margin-top: 28px;
+
+}
+.offercon h3{
+    font-size: 30px;
+
+}
+.offercon p{
+    font-size: 20px;
+}
+.btn7{
+    margin-top: 5px;
+}
+
+.txt h1 {
+    font-size: 31px;
+    text-align: center;
+    color: white;
+    margin-top: 57px;
+}
+
+.topm {
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.topm span {
+
+    font-size: 30px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.723);
+    border-radius: 3px;
+}
+
+/* this para is tem */
+.para p {
+    font-size: 17px;
+    text-align: center;
+    color: white;
+    width: 220px;
+    padding-left: 570px;
+    margin-top: 10px;
+    position: relative;
+}
+
+.btn button {
+    position: absolute;
+    left: 630px;
+    margin-top: 10px;
+    border-radius: 6px;
+
+    font-size: 13px;
+    color: darkred;
+    padding: 10px;
+    background-color: rgb(235, 228, 228);
+    border: none;
+    transition: all 0.10s ease-in-out;
+    /* animation-fill-mode: backwards; */
+}
+.btn7 button{
+    border-radius: 6px;
+    margin-top: 10px;
+    font-size: 13px;
+    color: black;
+    padding: 10px;
+    background-color: rgba(242, 234, 234, 0.635);
+    border: none;
+    transition: all 0.9s ease-in-out;
+}
+.card1 button {
+    border-radius: 6px;
+    margin-top: 10px;
+    font-size: 13px;
+    color: black;
+    padding: 10px;
+    background-color: rgba(242, 234, 234, 0.635);
+    border: none;
+    transition: all 0.9s ease-in-out;
+}
+
+.card1 P:hover {
+    color: darkgrey;
+}
+
+#navbar ul li a:hover {
+    color: rgb(13, 38, 114);
+}
+
+button:hover {
+    color: gray;
+    box-shadow: inset 15cap 0px 3px black;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.card1 img {
+    width: 200px;
+    height: 190px;
+    margin: 24px;
+    margin-top: 70px;
+}
+
+.container4 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#cards1 {
+    background-color: rgba(24, 16, 16, 0.62);
+    border-radius: 15px;
+    margin: 15px;
+}
+
+#cards2 {
+    background-color: rgba(24, 16, 16, 0.62);
+    border-radius: 15px;
+    margin: 15px;
+}
+
+#cards3 {
+    background-color: rgba(24, 16, 16, 0.62);
+    border-radius: 15px;
+    margin: 15px;
+}
+
+#cards4 {
+    background-color: rgba(24, 16, 16, 0.62);
+    border-radius: 15px;
+    margin: 15px;
+}
+
+#cards5 {
+    background-color: rgba(24, 16, 16, 0.62);
+    border-radius: 15px;
+    margin: 15px;
+}
+
+#cards6 {
+    background-color: rgba(24, 16, 16, 0.62);
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.container3 h4 {
+    color: white;
+}
+
+.container4 h4 {
+    color: white;
+}
+
+.container3 p {
+    color: white;
+}
+
+.container4 p {
+    color: white;
+}
+
+.menu {
+    font-size: 20px;
+
+    text-align: center;
+    color: #dddd54;
+
+    display: flex;
+    /* justify-content: center; */
+    line-height: 2.5;
+    justify-content: space-evenly;
+}
+
+.container5 {
+    height: 83vh;
+    background-color: rgba(26, 21, 21, 0.868);
+}
+
+.heading1 {
+    text-align: center;
+    color: #ffff78;
+
+}
+
+.heading1 h2 span {
+    background-color: #000000ad;
+    font-size: 35px;
+    border-radius: 6px;
+}
+
+.img2 {
+    height: 226px;
+    /* width: px; */
+    background-color: #00000061;
+    margin: 10px;
+
+}
+
+.img2 img {
+    height: 200px;
+    width: 241px;
+    height: 194px;
+    border-radius: 50px;
+    width: 240px;
+    padding: 20px;
+}
+
+.img3 img {
+    height: 188px;
+    border-radius: 50px;
+    width: 255px;
+    padding: 20px;
+
+
+}
+
+.img3 {
+    background-color: #00000061;
+    margin: 10px;
+    height: 246px;
+}
+
+.img1 {
+
+    margin: 10px;
+}
+
+.img2 h4 {
+    text-align: center;
+    color: white;
+    background-color: #000000f0;
+    margin-top: -14px;
+    font-size: 24px
+}
+
+.img3 h4 {
+    font-size: 24px;
+    color: white;
+    background-color: #000000f0;
+    text-align: center;
+    margin-top: -8px;
+}
+
+.card2 {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    background-image: url(/footer/footer1.webp);
+    height: 30vh;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.81;
+    font-size: 25px;
+
+
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+#pxpx {
+    margin-right: 43px;
+}
+
+/* --------------------------------------------MEDIA QUERY----------------------------------------------------------------------------------------- */
+@media (max-width: 1200px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 84px;
+        margin: 0;
+    }
+    .offercon p {
+        font-size: 24px;
+    }
+
+    .menu {
+        font-size: 20px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.3;
+        justify-content: space-evenly;
+    }
+}
+
+@media (max-width: 1100px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 80px;
+        margin: 0;
+    }
+    .offercon p {
+        font-size: 19px;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 26vh;
+        font-size: 20px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.81;
+        font-size: 23px;
+    }
+
+    .heading1 h2 span {
+        background-color: #000000ad;
+        font-size: 33px;
+        border-radius: 6px;
+    }
+
+}
+
+@media (max-width: 1050px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 78px;
+        margin: 0;
+    }
+
+    #navbar ul li a {
+        text-decoration: none;
+        font-size: 22px;
+        color: seashell;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 26vh;
+        font-size: 20px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.81;
+        font-size: 22px;
+    }
+
+}
+
+@media(max-width: 1000px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 80px;
+        margin: 0;
+    }
+    .offercon p {
+        font-size: 18px;
+    }
+    .offercon h4 {
+        font-size: 31px;
+        margin-top: 22px;
+    }
+    .offercon h3 {
+        font-size: 29px;
+    }
+
+    .img1 {
+        margin: 6px;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 25vh;
+        font-size: 20px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.81;
+        font-size: 21px;
+    }
+}
+
+@media(max-width: 950px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 78px;
+        margin: 0;
+    }
+
+
+    .txt h1 {
+        font-size: 30px;
+        text-align: center;
+        color: white;
+        margin-top: 51px;
+    }
+    .offer img {
+        width: 597px;
+        padding: 13px;
+        height: 59vh;
+        margin-top: 30px;
+    }
+    .offercon p {
+        font-size: 17px;
+    }
+    .offercon h3 {
+        font-size: 28px;
+    }
+
+    .topm span {
+        font-size: 32px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 6px;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 23vh;
+        font-size: 20px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.81;
+        font-size: 20px;
+    }
+}
+
+@media (max-width:900px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 81px;
+        margin: 0;
+    }
+
+    .txt h1 {
+        font-size: 30px;
+        text-align: center;
+        color: white;
+        margin-top: 39px;
+    }
+    .offer img {
+        width: 571px;
+        padding: 13px;
+        height: 58vh;
+        margin-top: 30px;
+    }
+    .offercon h4 {
+        font-size: 29px;
+        margin-top: 22px;
+    }
+    .offercon h3 {
+        font-size: 25px;
+    }
+    .offercon p {
+        font-size: 16px;
+    }
+
+    .img1 {
+        margin: -1px;
+    }
+
+}
+
+@media (max-width:850px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 85px;
+        margin: 0;
+    }
+
+    .txt h1 {
+        font-size: 27px;
+        text-align: center;
+        color: white;
+        margin-top: 39px;
+    }
+    .offer img {
+        width: 549px;
+        padding: 13px;
+        height: 54vh;
+        margin-top: 30px;
+    }
+    .offercon h3 {
+        font-size: 23px;
+    }
+    .offercon p {
+        font-size: 15.2px;
+    }
+
+    .topm {
+        text-align: center;
+        margin-top: 22px;
+    }
+
+    .card1 img {
+        width: 193px;
+        height: 184px;
+        margin: 24px;
+        margin-top: 70px;
+    }
+
+    .img1 {
+        margin: 1px;
+    }
+
+    .card1 button {
+        border-radius: 6px;
+        margin-top: 1px;
+        font-size: 14px;
+        color: black;
+        padding: 11px;
+        background-color: rgba(242, 234, 234, 0.635);
+        border: none;
+        transition: all 0.9s ease-in-out;
+    }
+
+    .heading1 h2 span {
+        background-color: #0000003b;
+        ;
+        font-size: 35px;
+        border-radius: 7px;
+    }
+
+    #pxpx {
+        margin-right: 53px;
+    }
+}
+
+@media (max-width:800px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 81px;
+        margin: 0;
+    }
+
+    #navbar ul li a {
+        text-decoration: none;
+        font-size: 21px;
+        color: seashell;
+    }
+    .offer img {
+        width: 496px;
+        padding: 13px;
+        height: 52vh;
+        margin-top: 30px;
+    }
+    .offercon h3 {
+        font-size: 21px;
+    }
+    .offercon h4 {
+        font-size: 27px;
+        margin-top: 25px;
+    }
+
+    .txt h1 {
+        font-size: 26px;
+        text-align: center;
+        color: white;
+        margin-top: 37px;
+    }
+
+    .topm span {
+        font-size: 31px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 6px;
+    }
+
+    .img1 {
+        margin: 0px;
+    }
+
+    .container3 h4 {
+        color: white;
+        font-size: 18px;
+    }
+
+    .container4 h4 {
+        color: white;
+        font-size: 18px;
+    }
+
+    .card1 button {
+        border-radius: 6px;
+        margin-top: 0px;
+        font-size: 15px;
+        color: black;
+        padding: 10px;
+        background-color: rgba(242, 234, 234, 0.635);
+        border: none;
+        transition: all 0.9s ease-in-out;
+    }
+
+    .card1 img {
+        width: 191px;
+        height: 177px;
+        margin: 23px;
+        margin-top: 65px;
+    }
+
+    .heading1 h2 span {
+        background-color: #0000003b;
+        font-size: 33px;
+        border-radius: 7px;
+    }
+
+    .container5 {
+        height: 82vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+
+    #pxpx {
+        margin-right: 76px;
+    }
+}
+
+@media (max-width:750px) {
+    .offer img {
+        width: 454px;
+        padding: 13px;
+        height: 48vh;
+        margin-top: 30px;
+    }
+    .offercon h3 {
+        font-size: 20px;
+    }
+    .offercon h4 {
+        font-size: 25px;
+        margin-top: 23px;
+    }
+    .offercon p {
+        font-size: 15px;
+    }
+    .txt h1 {
+        font-size: 25px;
+        text-align: center;
+        color: white;
+        margin-top: 37px;
+    }
+
+    .topm span {
+        font-size: 30px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 10px;
+    }
+
+    .card1 img {
+        width: 175px;
+        height: 166px;
+        margin: 20px;
+        margin-top: 59px;
+    }
+
+    .card1 button {
+        border-radius: 8px;
+        margin-top: 0px;
+        font-size: 14.5px;
+        color: black;
+        padding: 10px;
+        background-color: rgba(242, 234, 234, 0.635);
+        border: none;
+        transition: all 0.9s ease-in-out;
+    }
+
+    .heading1 h2 span {
+        background-color: #0000003b;
+        font-size: 32px;
+        border-radius: 7px;
+    }
+
+    .menu {
+        font-size: 19.5px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.3;
+        justify-content: space-evenly;
+    }
+
+    .container5 {
+        height: 80vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+
+    .img2 img {
+        height: 200px;
+        width: 241px;
+        height: 188px;
+        border-radius: 47px;
+        width: 236px;
+        padding: 20px;
+    }
+
+    .img3 img {
+        height: 181px;
+        border-radius: 49px;
+        width: 249px;
+        padding: 20px;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 23vh;
+        font-size: 20px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.81;
+        font-size: 19px;
+    }
+
+    #pxpx {
+        margin-right: 83px;
+    }
+}
+
+@media (max-width:700px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 79px;
+        margin: 0;
+    }
+    .offer img {
+        width: 422px;
+        padding: 13px;
+        height: 46vh;
+        margin-top: 30px;
+    }
+    .offercon h4 {
+        font-size: 24px;
+        margin-top: 19px;
+    }
+    .offercon p {
+        font-size: 14px;
+    }
+    .btn7 button b{
+        font-size: 15px;
+    }
+
+    .card1 img {
+        width: 164px;
+        height: 155px;
+        margin: 20px;
+        margin-top: 59px;
+    }
+
+    .card1 button {
+        border-radius: 8px;
+        margin-top: 0px;
+        font-size: 14.9px;
+        color: black;
+        padding: 10px;
+        background-color: rgba(242, 234, 234, 0.635);
+        border: none;
+        transition: all 0.9s ease-in-out;
+    }
+
+    #navbar ul li a {
+        text-decoration: none;
+        font-size: 20px;
+        color: seashell;
+    }
+
+    .txt h1 {
+        font-size: 25px;
+        text-align: center;
+        color: white;
+        margin-top: 35px;
+    }
+
+    .topm span {
+        font-size: 29px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 10px;
+    }
+
+    #pxpx {
+        margin-right: 105px;
+    }
+}
+
+@media (max-width:650px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 77px;
+        margin: 0;
+    }
+    .offer img {
+        width: 595px;
+        padding: 13px;
+        height: 45vh;
+        margin-top: 22px;
+        border-radius: 25px;
+    }
+    .btn7 button{
+        display: none;
+    }
+    .offercon h4 {
+        font-size: 25px;
+        margin-top: 16px;
+    }
+    .offercon h3 {
+        font-size: 22px;
+    }
+    .offercon p {
+        font-size: 20px;
+    }
+    
+   
+
+
+    .txt h1 {
+        font-size: 24px;
+        text-align: center;
+        color: white;
+        margin-top: 35px;
+    }
+
+    .topm span {
+        font-size: 28px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 10px;
+    }
+
+    .card1 img {
+        width: 156px;
+        height: 145px;
+        margin: 16px;
+        margin-top: 64px;
+    }
+
+    .card1 button {
+        border-radius: 12px;
+        margin-top: 0px;
+        font-size: 14px;
+        color: black;
+        padding: 9px;
+        background-color: rgba(242, 234, 234, 0.635);
+        border: none;
+        transition: all 0.9s ease-in-out;
+    }
+
+    .heading1 h2 span {
+        background-color: #0000003b;
+        font-size: 31px;
+        border-radius: 7px;
+    }
+
+    .img2 img {
+        height: 200px;
+        width: 241px;
+        height: 187px;
+        border-radius: 47px;
+        width: 229px;
+        padding: 20px;
+    }
+
+    .img3 img {
+        height: 181px;
+        border-radius: 49px;
+        width: 242px;
+        padding: 20px;
+    }
+
+    #pxpx {
+        margin-right: 108px;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 23vh;
+        font-size: 19px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.81;
+        font-size: 18.5px;
+    }
+    .container4 {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+    .container3 {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+    .container11{
+        display: flex;
+    background-color: rgba(24, 16, 16, 0.62);
+    border-radius: 15px;
+    margin: 15px;
+    /* flex-wrap: wrap; */
+    flex-direction: column-reverse;
+    }
+    .offer img {
+        width: 595px;
+        padding: 13px;
+        height: 45vh;
+        margin-top: -19px;
+        border-radius: 25px;
+    }
+}
+@media (max-width:643px) {
+    .offer img {
+        width: 569px;
+        padding: 13px;
+        height: 45vh;
+        margin-top: -19px;
+        border-radius: 25px;
+    }
+    
+}
+@media (max-width:622px) {
+.offer img {
+    width: 546px;
+    padding: 13px;
+    height: 45vh;
+    margin-top: -21px;
+    border-radius: 25px;
+}
+}
+
+
+@media (max-width:600px) {
+    .offer img {
+        width: 546px;
+        padding: 13px;
+        height: 43vh;
+        margin-top: -15px;
+        border-radius: 25px;
+    }
+    .offercon h4 {
+        font-size: 24px;
+        margin-top: 16px;
+    }
+    .offercon h3 {
+        font-size: 20px;
+    }
+    .offercon p {
+        font-size: 18px;
+    }
+    .txt h1 {
+        font-size: 23px;
+        text-align: center;
+        color: white;
+        margin-top: 35px;
+    }
+    .container3 {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+    .container4 {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+    
+
+
+    .topm span {
+        font-size: 27px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 10px;
+    }
+
+    .card1 img {
+        width: 143px;
+        height: 132px;
+        margin: 16px;
+        margin-top: 60px;
+    }
+
+    .card1 button {
+        border-radius: 12px;
+        margin-top: 0px;
+        font-size: 13px;
+        color: black;
+        padding: 9px;
+        background-color: rgba(242, 234, 234, 0.635);
+        border: none;
+        transition: all 0.9s ease-in-out;
+    }
+
+    .heading1 h2 span {
+        background-color: #0000003b;
+        font-size: 30px;
+        border-radius: 7px;
+    }
+
+    .menu {
+        font-size: 18px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.3;
+        justify-content: space-evenly;
+    }
+
+    .container5 {
+        height: 73vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+
+    .img2 img {
+        height: 200px;
+        width: 241px;
+        height: 185px;
+        border-radius: 47px;
+        width: 208px;
+        padding: 20px;
+    }
+
+    .img3 img {
+        height: 181px;
+        border-radius: 49px;
+        width: 224px;
+        padding: 20px;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 22vh;
+        font-size: 19px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.81;
+        font-size: 17.5px;
+    }
+
+    #pxpx {
+        margin-right: 110px;
+    }
+
+}
+
+/* .container3 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+} */
+ @media (max-width:593px) {
+    .offer img {
+        width: 521px;
+        padding: 13px;
+        height: 43vh;
+        margin-top: -15px;
+        border-radius: 25px;
+    }
+    
+ }
+ @media (max-width:578px) {
+    .offer img {
+        width: 500px;
+        padding: 13px;
+        height: 43vh;
+        margin-top: -15px;
+        border-radius: 25px;
+        /* margin-right: -24px; */
+        
+    }
+    
+ }
+@media (max-width:550px) { 
+    /* fdhsfhsfhsfhsffsjjsjfssfhshffshdfshfhfhfhfh */
+   
+    .offer img {
+
+        width: 483px;
+        padding: 13px;
+        height: 43vh;
+        margin-top: -15px;
+        border-radius: 25px;
+    }
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 72px;
+        margin: 0;
+    }
+
+    #navbar ul li a {
+        text-decoration: none;
+        font-size: 17px;
+        color: seashell;
+    }
+    .card2 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .card1 img {
+        width: 162px;
+        height: 141px;
+        margin: 17px;
+        margin-top: 64px;
+    }
+
+    .txt h1 {
+        font-size: 22px;
+        text-align: center;
+        color: white;
+        margin-top: 35px;
+    }
+
+    .topm span {
+        font-size: 25px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 10px;
+    }
+
+
+    .container3 {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+
+    .container4 {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+
+    .menu {
+        font-size: 17px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.2;
+        justify-content: space-evenly;
+    }
+
+    .container5 {
+        height: 68vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+
+    .img3 img {
+        height: 181px;
+        border-radius: 49px;
+        width: 195px;
+        padding: 20px;
+    }
+
+    .img2 img {
+        height: 200px;
+        width: 241px;
+        height: 185px;
+        border-radius: 47px;
+        width: 194px;
+        padding: 20px;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 19vh;
+        font-size: 19px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.81;
+        font-size: 16.5px;
+    }
+
+}
+
+@media (max-width:515px) {
+    .menu {
+        font-size: 16px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.2;
+        justify-content: space-evenly;
+    }
+
+    .container5 {
+        height: 64vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+}
+
+@media (max-width:500px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 67px;
+        margin: 0;
+    }
+
+
+    #navbar ul li a {
+        text-decoration: none;
+        font-size: 16px;
+        color: seashell;
+    }
+    .offercon h4 {
+        font-size: 23px;
+        margin-top: 16px;
+    }
+    .offercon h3 {
+        font-size: 19px;
+    }
+    .offercon p {
+        font-size: 17px;
+    }
+    .offer img {
+        width: 432px;
+        padding: 13px;
+        height: 38vh;
+        margin-top: -15px;
+        border-radius: 25px;
+    }
+
+    .txt h1 {
+        font-size: 21px;
+        text-align: center;
+        color: white;
+        margin-top: 32px;
+    }
+
+    .topm span {
+        font-size: 24px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 10px;
+    }
+
+    .heading1 h2 span {
+        background-color: #0000003b;
+        font-size: 27px;
+        border-radius: 7px;
+    }
+
+    .menu {
+        font-size: 16px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.2;
+        justify-content: space-evenly;
+    }
+
+    .container5 {
+        height: 65vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+
+    .card2 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 17vh;
+        font-size: 19px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1.81;
+        font-size: 14px;
+    }
+
+}
+@media (max-width:483px) {
+    .offer img {
+        width: 414px;
+        padding: 13px;
+        height: 36vh;
+        margin-top: -15px;
+        border-radius: 25px;
+    }
+    .offercon h4 {
+        font-size: 22px;
+        margin-top: 16px;
+    }
+    .offercon h3 {
+        font-size: 17px;
+    }
+    .offercon p {
+        font-size: 16px;
+    }
+    
+}
+@media (max-width:464px) {
+    .offercon h4 {
+        font-size: 21px;
+        margin-top: 16px;
+    }
+    .offercon h3 {
+        font-size: 16px;
+    }
+    .offer img {
+        width: 391px;
+        padding: 13px;
+        height: 35vh;
+        margin-top: -15px;
+        border-radius: 25px;
+    }
+    
+}
+
+@media (max-width:450px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 67px;
+        margin: 0;
+    }
+
+    .txt h1 {
+        font-size: 20px;
+        text-align: center;
+        color: white;
+        margin-top: 32px;
+    }
+
+    .topm span {
+        font-size: 23px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 10px;
+    }
+
+    .card1 img {
+        width: 154px;
+        height: 129px;
+        margin: 17px;
+        margin-top: 64px;
+    }
+
+    .heading1 h2 span {
+        background-color: #0000003b;
+        font-size: 26px;
+        border-radius: 7px;
+    }
+
+    .menu {
+        font-size: 14px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.6;
+        justify-content: space-evenly;
+    }
+
+    .img3 img {
+        height: 181px;
+        border-radius: 49px;
+        width: 193px;
+        padding: 20px;
+    }
+
+    .img2 img {
+        height: 200px;
+        width: 241px;
+        height: 180px;
+        border-radius: 47px;
+        width: 189px;
+        padding: 20px;
+    }
+
+
+
+}
+@media (max-width:440px) {
+    .offer img {
+        width: 366px;
+        padding: 13px;
+        height: 34vh;
+        margin-top: -15px;
+        border-radius: 25px;
+    }
+}
+
+@media (max-width:424px) {
+    .menu {
+        font-size: 13.5px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.7;
+        justify-content: space-evenly;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 18vh;
+        font-size: 19px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1.81;
+        font-size: 13px;
+    }
+
+}
+@media (max-width:415px) {
+    .offercon h4 {
+        font-size: 20px;
+        margin-top: 16px;
+    }
+    .offercon h3 {
+        font-size: 15px;
+    }
+    .offercon p {
+        font-size: 15px;
+    }
+    .offer img {
+        width: 341px;
+        padding: 13px;
+        height: 30vh;
+        margin-top: -10px;
+        border-radius: 33px;
+    }
+    
+}
+
+@media (max-width:409px) {
+    .menu {
+        font-size: 13px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.7;
+        justify-content: space-evenly;
+    }
+
+}
+
+@media (max-width:400px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 64px;
+        margin: 0;
+    }
+
+    #navbar ul li a {
+        text-decoration: none;
+        font-size: 15px;
+        color: seashell;
+    }
+
+    .txt h1 {
+        font-size: 19.5px;
+        text-align: center;
+        color: white;
+        margin-top: 30px;
+    }
+
+    .topm {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .card1 img {
+        width: 134px;
+        height: 127px;
+        margin: 17px;
+        margin-top: 64px;
+    }
+
+    .heading1 h2 span {
+        background-color: #0000003b;
+        font-size: 25px;
+        border-radius: 7px;
+    }
+
+    .menu {
+        font-size: 12.5px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.7;
+        justify-content: space-evenly;
+    }
+
+    .container5 {
+        height: 60vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+
+    .img3 img {
+        height: 185px;
+        border-radius: 49px;
+        width: 187px;
+        padding: 20px;
+    }
+
+    .img2 img {
+        height: 200px;
+        width: 241px;
+        height: 174px;
+        border-radius: 47px;
+        width: 184px;
+        padding: 20px;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 20vh;
+        font-size: 19px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1.81;
+        font-size: 13px;
+    }
+
+
+}
+@media (max-width:390px) {
+    .offercon h4 {
+        font-size: 19px;
+        margin-top: 16px;
+    }
+    .offercon h3 {
+        font-size: 14.5px;
+    }
+    .offer img {
+        width: 319px;
+        padding: 13px;
+        height: 29vh;
+        margin-top: -12px;
+        border-radius: 33px;
+    }
+    
+}
+
+@media (max-width:378px) {
+    .menu {
+        font-size: 11.5px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.9;
+        justify-content: space-evenly;
+    }
+
+    .container5 {
+        height: 59vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+}
+
+@media (max-width:333px) {
+    .menu {
+        font-size: 10.9px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.9;
+        justify-content: space-evenly;
+    }
+}
+@media (max-width:367px) {
+    .offercon h4 {
+        font-size: 18px;
+        margin-top: 16px;
+    }
+    .offercon h3 {
+        font-size: 13.5px;
+    }
+    .offercon p {
+        font-size: 14px;
+    }
+    .offer img {
+        width: 296px;
+        padding: 13px;
+        height: 28vh;
+        margin-top: -12px;
+        border-radius: 27px;
+    }
+    
+}
+
+@media (max-width:350px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 57px;
+        margin: 0;
+    }
+
+    #navbar ul li a {
+        text-decoration: none;
+        font-size: 14px;
+        color: seashell;
+    }
+
+    .txt h1 {
+        font-size: 17.5px;
+        text-align: center;
+        color: white;
+        margin-top: 30px;
+    }
+
+    .topm span {
+        font-size: 21px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 10px;
+    }
+
+    .topm {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .card1 button {
+        border-radius: 13px;
+        margin-top: 0px;
+        font-size: 13px;
+        color: black;
+        padding: 8px;
+        background-color: rgba(242, 234, 234, 0.635);
+        border: none;
+        transition: all 0.9s ease-in-out;
+    }
+
+    .heading1 h2 span {
+        background-color: #0000003b;
+        font-size: 24px;
+        border-radius: 7px;
+    }
+
+    .menu {
+        font-size: 11px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.9;
+        justify-content: space-evenly;
+    }
+
+    .container5 {
+        height: 57vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+
+    .img3 img {
+        height: 182px;
+        border-radius: 49px;
+        width: 175px;
+        padding: 20px;
+    }
+
+    .img2 img {
+        height: 200px;
+        width: 241px;
+        height: 174px;
+        border-radius: 47px;
+        width: 171px;
+        padding: 20px;
+    }
+
+    #pxpx {
+        margin-right: 108px;
+    }
+
+}
+@media (max-width:345px) {
+    .offercon h4 {
+        font-size: 17px;
+        margin-top: 16px;
+    }
+    .offercon h3 {
+        font-size: 12.5px;
+    }
+    .offer img {
+        width: 274px;
+        padding: 13px;
+        height: 27vh;
+        margin-top: -12px;
+        border-radius: 24px;
+    }
+    
+}
+@media (max-width:330px) {
+    .offercon h4 {
+        font-size: 16px;
+        margin-top: 16px;
+    }
+    .offercon h3 {
+        font-size: 11.5px;
+    }
+    .offercon p {
+        font-size: 13px;
+    }
+    .offer img {
+        width: 263px;
+        padding: 13px;
+        height: 26vh;
+        margin-top: -12px;
+        border-radius: 24px;
+    }
+    
+}
+
+@media (max-width:320px) {
+    .logo img {
+        /* margin: 20px 30px; */
+        width: 61px;
+        margin: 0;
+    }
+
+    #navbar ul li a {
+        text-decoration: none;
+        font-size: 14.5px;
+        color: seashell;
+    }
+
+    .txt h1 {
+        font-size: 16.5px;
+        text-align: center;
+        color: white;
+        margin-top: 30px;
+    }
+
+    .topm span {
+        font-size: 19px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.723);
+        border-radius: 10px;
+    }
+
+    .card1 img {
+        width: 127px;
+        height: 110px;
+        margin: 17px;
+        margin-top: 55px;
+    }
+
+    .card1 button {
+        border-radius: 13px;
+        margin-top: 0px;
+        font-size: 12px;
+        color: black;
+        padding: 9px;
+        background-color: rgba(242, 234, 234, 0.635);
+        border: none;
+        transition: all 0.9s ease-in-out;
+    }
+
+    .container3 h4 {
+        color: white;
+        font-size: 15px;
+    }
+
+    .container4 h4 {
+        color: white;
+        font-size: 16px;
+    }
+
+    .heading1 h2 span {
+        background-color: #0000003b;
+        font-size: 22px;
+        border-radius: 9px;
+    }
+
+    .menu {
+        font-size: 10.2px;
+        text-align: center;
+        color: #dddd54;
+        display: flex;
+        /* justify-content: center; */
+        line-height: 2.9;
+        justify-content: space-evenly;
+    }
+
+    .container5 {
+        height: 53vh;
+        background-color: rgba(26, 21, 21, 0.868);
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 20vh;
+        font-size: 19px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1.81;
+        font-size: 12px;
+    }
+
+    #pxpx {
+        margin-right: 96px;
+    }
+
+
+}
