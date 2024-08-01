@@ -143,7 +143,7 @@ body {
     border-radius: 6px;
     margin-top: 10px;
     font-size: 13px;
-    color: black;
+    color: white;
     padding: 10px;
     background-color: rgba(242, 234, 234, 0.635);
     border: none;
@@ -1822,6 +1822,19 @@ footer {
 
     #pxpx {
         margin-right: 108px;
+    }
+    footer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-image: url(/footer/footer1.webp);
+        height: 25vh;
+        font-size: 19px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1.81;
+        font-size: 13px;
     }
 
 }
