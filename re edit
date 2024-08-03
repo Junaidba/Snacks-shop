@@ -1,0 +1,55 @@
+ <div class="container5">
+        <div class="heading1">
+            <h2><b><span>Menu</span></b></h2>
+        </div>
+        <div class="menu">
+
+            <div class="dishes">
+                <p><b><i>Frinch Fries <span> $3</span></p></i></b>
+                <p><b><i>Cheese Toastie <span> $3</span></i></b></p>
+                <p><b><i>Lomo DE Salmon <span> $6 </span></i></b></p>
+                <p><b><i>Bacalao Frto <span> $2.1</span></i></b></p>
+                <p><b><i>Chill Fry <span>$4</span> </i></b></p>
+                <p><b><i>Chicken Lollypop <span>$6</span></i></b></p>       
+                <p><b><i>Chicken Thikka <span>$8</span></i></b></p>
+                <p><b><i>Drum Chicken <span>$6</span></i></b></p>
+                <p><b><i>Dragon Chicken <span>$10</span></i></b></p>
+                <p><b><i>Burger <span>$9</span></i></b></p>
+            </div>
+            <div class="dishes">
+                <P><b><i>Shawarma <span>$15</span> </i></b></P>
+                <P><b><i>Fried Rice <span>$10</span></i></b></P>
+                <P><b><i>Noodles <span>$10</span></i></b></P>
+                <P><b><i>Sandwich <span>$9</span></i></b></P>
+                <P><b><i>Honey Chicken <span>$8</span></i></b></P>
+                <P><b><i>Chicken Roll ;<span>$7</span></i></b></P>
+                <P><b><i>Panner Fry <span>$6</span></i></b></P>
+                <P><b><i>Baby Corn Fry <span>$5</span></i></b></P>
+                <P><b><i>Curd Masala Chicken <span>$8</span></i></b></P>
+                <P><b><i>Chicken Fry Layer <span>$7</span></i></b></P>
+            </div>
+            <div class="dishes">
+                <P><b><i>Calcutta Chop <span>$9</span></i></b></P>
+                <P><b><i>Bhel <span>$4</span></i></b></P>
+                <P><b><i>Noodles Chilly Spy <span>$8</span></i></b></P>
+                <P><b><i>Frankie <span>&9</span></i></b></P>
+                <P><b><i>Momos <span>$12</span></i></b></P>
+                <P><b><i>Veda Pav <span>$&9</span></i></b></P>
+                <P><b><i>Pran Fry <span>$8</span></i></b></P>
+                <P><b><i>Murukku <span>$9</span></i></b></P>
+                <P><b><i>Chakli <span>$&8</span></i></b></P>
+                <P><b><i>Club Sandwich <span>$4</span></i></b></P>
+            </div>
+        </div>
+    </div>
+        <div class="card2" id="card7">
+            <div class="img3">
+                <img src="/order bulk/order1.webp" alt="">
+                <h4><b>Bulk Order</b></h4>
+
+            </div>
+            <div class="img2">
+                <img src="/delivery/img.png" alt="">
+                <h4><b>Fast Delivery</b></h4>
+            </div>
+        </div>
